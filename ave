@@ -1,0 +1,9 @@
+#!/bin/sh
+var="allo"
+echo "Bonjour! $var espace phrase">&1
+echo '$var Sterr' >&2
+echo "Bonjour! $USER">&1
+echo "Au revoir $USER">&2
+echo "Bonjour! $(id -un)">&1
+echo "Au revoir $(id -un)">&2
+

@@ -1,0 +1,11 @@
+#!/bin/sh
+
+foo() {
+    echo "FOO $@"
+    local c=X
+    d=Y
+}
+c=cé
+d=dé
+foo a b "$c" "$d"
+foo a b "$c" "$d"

@@ -1,0 +1,15 @@
+total 208
+-rw-r--r-- 1 tarek tarek 24826 Sep 12 14:32 Bilabial_nasal.ogg
+-rw-rw-r-- 1 tarek tarek    33 Sep 21 11:12 Bonjour.txt
+-rw-r--r-- 1 tarek tarek 33458 Sep 12 14:31 cat.pdf
+-rw-r--r-- 1 tarek tarek  7988 Sep 28 11:52 Debian-OpenLogo.svg
+-rw-rw-r-- 1 tarek tarek 29073 Sep 28 11:39 Debian.png
+-rw-rw-r-- 1 tarek tarek   775 Sep 24 15:41 fables.txt
+-rw-r--r-- 1 tarek tarek 35149 Sep 12 14:31 gpl.txt
+-rw-r--r-- 1 tarek tarek 34481 Sep 12 14:31 HelloWorld.java
+drwxrwxr-x 3 tarek tarek  4096 Sep 20 14:47 labo2
+-rw-rw-r-- 1 tarek tarek   125 Sep 26 10:15 listeFichier.txt
+-rw-rw-r-- 1 tarek tarek    55 Sep 21 11:05 ls.err
+-rw-rw-r-- 1 tarek tarek    53 Sep 21 11:05 ls.out
+-rw-r--r-- 1 tarek tarek  5266 Sep 12 14:32 ubuntu.png
+-rw-rw-r-- 1 tarek tarek     0 Oct  2 05:49 wc

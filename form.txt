@@ -1,0 +1,4 @@
+Nom: <nom>
+Prénom: <prénom>
+Code permanent: <code>
+Courriel: <courriel>
